@@ -3,7 +3,7 @@
 ### Corresponding Author*: 
 DANIEL SAATCHI
 ### Affiliation: 
-Dropout Fellow, Marie Skłodowska-Curie Actions (MSCA) Programme for Artificial Intelligence, European Union
+Dropout Fellow, Marie Skłodowska-Curie Actions (MSCA) Programme for Artificial Intelligence, European Commission
 ### X Social Platform: 
 <a href="https://x.com/danielsaatchi" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/X_%28formerly_Twitter%29_logo_late_2025.svg/960px-X_%28formerly_Twitter%29_logo_late_2025.svg.png" width="16" style="vertical-align: middle;"> @danielsaatchi

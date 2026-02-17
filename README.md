@@ -16,7 +16,7 @@ Dropout MSCA Fellow, Marie Skłodowska-Curie Actions (MSCA) Programme for Artifi
 
 <a href="https://x.com/danielsaatchi" target="_blank">
   <img src="<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/aa3b309a-706a-4507-b11e-0f47dbc355e4" />
-" width="16" style="vertical-align: middle;"> @danielsaatchi
+" width="4" style="vertical-align: middle;"> @danielsaatchi
 </a>
 
 

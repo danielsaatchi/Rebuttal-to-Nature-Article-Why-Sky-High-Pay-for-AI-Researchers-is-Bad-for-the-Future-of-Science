@@ -1,11 +1,15 @@
-#Formal Rebuttal to Nature Article: “Why Sky-High Pay for AI Researchers is Bad for the Future of Science"
+# Formal Rebuttal to Nature Article: “Why Sky-High Pay for AI Researchers is Bad for the Future of Science"
 
-Author: DANIEL SAATCHI
-Affiliation: Dropout MSCA Fellow, Marie Skłodowska-Curie Actions (MSCA) Programme for Artificial Intelligence, European Union
-X social platform: @danielsaatchi
-Date: 18 Feb 2026
+### Author: 
+DANIEL SAATCHI
+### Affiliation: 
+Dropout MSCA Fellow, Marie Skłodowska-Curie Actions (MSCA) Programme for Artificial Intelligence, European Union
+### X social platform: 
+@danielsaatchi
+### Date: 
+18 Feb 2026
 
-To the Editors of Nature,
+### To the Editors of Nature,
 I write to respond to the article “Why sky-high pay for AI researchers is bad for the future of science.” With following link https://www.nature.com/articles/d41586-026-00474-3#:~:text=To%20ensure%20that%20AI%20advances,top%20talent%20with%20astronomical%20compensation.  The piece raises timely concerns about the economic transformation of artificial-intelligence research and its implications for academic institutions. However, its central framing — that high compensation for AI researchers poses a systemic threat to scientific progress — overlooks deeper structural realities in the contemporary political economy of knowledge production. 
 The article raises important concerns about the changing economics and institutional dynamics of artificial-intelligence research. However, its framing of researcher compensation and academic–industry relationships risks mischaracterizing the structural realities of contemporary knowledge production. In particular, the article appears to treat rising compensation and mobility among AI researchers as a systemic problem, when in fact these developments are rational responses to deep imbalances in how intellectual labor is valued and rewarded.
 

@@ -21,7 +21,7 @@ AI researchers today generate extraordinary scientific, technological, and econo
 In such an environment, elevated compensation is not a distortion but a rational adjustment to measurable value creation. When institutions capture significant downstream economic returns from research output, it is both predictable and justified that highly skilled researchers seek compensation commensurate with their contributions. Framing increased pay primarily as a systemic risk misidentifies a market response as a structural problem.
 
 ### Institutional benefit and individual burden
-Academic AI research is conducted under conditions of intensifying professional pressure. Researchers face expanding expectations to publish frequently, secure competitive funding, maintain teaching and administrative commitments, and operate at the frontier of rapidly evolving technical fields. These demands impose sustained cognitive, temporal, and psychological strain.
+Academic AI research is conducted under conditions of intensifying professional pressure. Researchers face expanding expectations to publish frequently, secure competitive funding, maintain teaching and administrative commitments, and operate at the frontier of rapidly evolving technical fields. These demands impose sustained cognitive, temporal, and psychological strain (Saatchi, 2026).
 At the same time, institutions derive durable benefits from these efforts: 70%-90% ownership of patent portfolios developed by underpaid researchers, institutional prestige, rankings, and expanded funding streams. This creates an asymmetry in which organizational gains accumulate while individual researchers bear the ongoing labor intensity required to produce them. Discussions of compensation that ignore this imbalance risk presenting an incomplete account of academic labor dynamics.
 
 ### Industry collaboration as structural necessity
@@ -47,6 +47,7 @@ DANIEL SAATCHI
 
 ### References
 -Sanders, N.E. and Schneier, B. (2026) “Why sky-high pay for AI researchers is bad for the future of science,” Nature, 650(8102), pp. 554–555. Available at: https://doi.org/10.1038/d41586-026-00474-3.
+- Saatchi, D. (2026) "AI Research Ethics: Discommendation for European Institutional Responsibilities under Marie Skłodowska-Curie Actions". Microsoft Github, Availablte at https://github.com/danielsaatchi/msca-ai-discommend-for-european-hosts-ethics
 
 
 

@@ -50,7 +50,7 @@ DANIEL SAATCHI
 
 -Saatchi, D. (2026) "AI Research Ethics: Discommendation for European Institutional Responsibilities under Marie Skłodowska-Curie Actions". Microsoft Github, Availablte at https://github.com/danielsaatchi/msca-ai-discommend-for-european-hosts-ethics
 
--Levy, A. (2023) “Bullying in academia: why it happens and how to stop it,” Nature. Available at: https://doi.org/10.1038/d41586-023-02172-w.
+-Levy, A. (2023) “Bullying in academia: why it happens and how to stop it,” Nature Careers Podcast. Available at: https://doi.org/10.1038/d41586-023-02172-w.
 
 -Hollis, L. (2024) "Academic Bullying: An Unstable Element in Stem Research". Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4798319 
 

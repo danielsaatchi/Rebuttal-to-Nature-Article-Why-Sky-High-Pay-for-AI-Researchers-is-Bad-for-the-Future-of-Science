@@ -47,7 +47,7 @@ DANIEL SAATCHI
 
 ### References
 -Sanders, N.E. and Schneier, B. (2026) “Why sky-high pay for AI researchers is bad for the future of science,” Nature, 650(8102), pp. 554–555. Available at: https://doi.org/10.1038/d41586-026-00474-3.
-- Saatchi, D. (2026) "AI Research Ethics: Discommendation for European Institutional Responsibilities under Marie Skłodowska-Curie Actions". Microsoft Github, Availablte at https://github.com/danielsaatchi/msca-ai-discommend-for-european-hosts-ethics
+-Saatchi, D. (2026) "AI Research Ethics: Discommendation for European Institutional Responsibilities under Marie Skłodowska-Curie Actions". Microsoft Github, Availablte at https://github.com/danielsaatchi/msca-ai-discommend-for-european-hosts-ethics
 
 
 
